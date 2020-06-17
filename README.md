@@ -10,6 +10,7 @@
 
 * The counting uses upgraded Tensorflow object counting API and the counted graph is plotted using matplotlib animation
 * When the count exceeds a threshold(say people count >5) it will trigger our incident
+* The triggering script is on api/object_counting_api.py
 
 ![alt text](https://github.com/kishorkuttan/People-counting-and-alert-system-using-TensorFlow-and-PagerDuty-/blob/master/android_1.jpg?raw=true)
 
