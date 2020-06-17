@@ -4,6 +4,15 @@
 
 * The counting uses upgraded Tensorflow object counting API and the counted graph is plotted using matplotlib animation
 * When the count exceeds a threshold(say people count >5) it will trigger our incident
+# Run
+* If you are already installed Anaconda python you can skip this step
+https://www.anaconda.com/distribution/
+
+* conda create -n yolo pip python=3.7
+* conda activate yolo
+* pip install -r requirements.txt
+* python main.py
+
 # Nvidia Jetson Nano features
 ## GPU: 128-core NVIDIA Maxwell™ architecture-based GPU
 ## CPU: Quad-core ARM® A57
@@ -14,12 +23,5 @@
 ## OS Support: Linux for Tegra®
 ## Module Size: 70mm x 45mm
 ## Developer Kit Size: 100mm x 80mm
-# Run
-* If you are already installed Anaconda python you can skip this step
-https://www.anaconda.com/distribution/
 
-* conda create -n yolo pip python=3.7
-* conda activate yolo
-* pip install -r requirements.txt
-* python main.py
 
