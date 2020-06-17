@@ -2,8 +2,7 @@
 # Working using Nvidia Jetson Nano
 ![alt text](https://www.waveshare.com/img/devkit/accBoard/Fan-4010-12V/Fan-4010-12V-3_800.jpg)
 
-![alt text](https://github.com/kishorkuttan/People-counting-and-alert-system-using-TensorFlow-and-PagerDuty-
-/blob/master/snapshot.png?raw=true)
+![alt text](https://github.com/kishorkuttan/People-counting-and-alert-system-using-TensorFlow-and-PagerDuty-/blob/master/snapshot.png?raw=true)
 ### People counting and real-time animated graph using TensorFlow object counting API
 
 * The counting uses upgraded Tensorflow object counting API and the counted graph is plotted using matplotlib animation
