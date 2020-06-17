@@ -10,6 +10,9 @@
 
 * The counting uses upgraded Tensorflow object counting API and the counted graph is plotted using matplotlib animation
 * When the count exceeds a threshold(say people count >5) it will trigger our incident
+![alt text](https://github.com/kishorkuttan/People-counting-and-alert-system-using-TensorFlow-and-PagerDuty-/blob/master/android_1.jpg?raw=true)
+![alt text](https://github.com/kishorkuttan/People-counting-and-alert-system-using-TensorFlow-and-PagerDuty-/blob/master/android_2.jpg?raw=true)
+### Alert
 # Run
 * If you are already installed Anaconda python you can skip this step
 https://www.anaconda.com/distribution/
