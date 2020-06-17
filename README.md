@@ -1,4 +1,7 @@
 # People-counting-and-alert-system-using-TensorFlow-and-PagerDuty
+# Demo video
+
+![Alt text](https://img.youtube.com/vi/jQlTwzy6tN0/0.jpg)](https://www.youtube.com/watch?v=jQlTwzy6tN0&feature=emb_logo)
 # Working using Nvidia Jetson Nano
 ![alt text](https://www.waveshare.com/img/devkit/accBoard/Fan-4010-12V/Fan-4010-12V-3_800.jpg)
 
