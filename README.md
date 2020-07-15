@@ -36,5 +36,7 @@ https://www.anaconda.com/distribution/
 ## OS Support: Linux for Tegra®
 ## Module Size: 70mm x 45mm
 ## Developer Kit Size: 100mm x 80mm
+# Reference
+https://github.com/ahmetozlu/tensorflow_object_counting_api
 
 
